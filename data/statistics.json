@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-10T00:13:32.749262",
+  "generated_at": "2026-01-11T00:15:26.061050",
   "overall": {
-    "total_commits": 2,
+    "total_commits": 0,
     "total_prs": 5,
     "total_issues": 1,
     "total_repositories": 10,
@@ -16,30 +16,21 @@
   },
   "streaks": {
     "current_streak": 0,
-    "longest_streak": 1,
-    "last_contribution": "2025-12-23"
+    "longest_streak": 0,
+    "last_contribution": null
   },
   "languages": {
-    "Python": {
+    "TypeScript": {
       "count": 1,
       "percentage": 50.0
     },
-    "Unknown": {
+    "Python": {
       "count": 1,
       "percentage": 50.0
     }
   },
   "repositories": {
     "repositories": [
-      {
-        "repository": "VinodHatti-AI-Developer/VinodHatti-Elepcode",
-        "commits": 2,
-        "prs": 0,
-        "issues": 0,
-        "stars": 0,
-        "forks": 0,
-        "activity_score": 2
-      },
       {
         "repository": "DonCharlesLambert/shippuden-stories",
         "commits": 0,
@@ -99,12 +90,6 @@
         "month": "2025-11",
         "commits": 0,
         "prs": 1,
-        "issues": 0
-      },
-      {
-        "month": "2025-12",
-        "commits": 2,
-        "prs": 0,
         "issues": 0
       }
     ]
