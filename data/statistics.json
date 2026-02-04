@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T00:18:11.835489",
+  "generated_at": "2026-02-04T00:15:31.495532",
   "overall": {
     "total_commits": 0,
     "total_prs": 5,
@@ -41,7 +41,7 @@
         "activity_score": 2
       },
       {
-        "repository": "jingyaogong/minimind",
+        "repository": "HKUDS/DeepCode",
         "commits": 0,
         "prs": 1,
         "issues": 0,
@@ -50,7 +50,7 @@
         "activity_score": 1
       },
       {
-        "repository": "HKUDS/DeepCode",
+        "repository": "jingyaogong/minimind",
         "commits": 0,
         "prs": 1,
         "issues": 0,
