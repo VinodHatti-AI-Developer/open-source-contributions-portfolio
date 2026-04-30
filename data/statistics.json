@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-29T00:30:57.886366",
+  "generated_at": "2026-04-30T00:30:40.552224",
   "overall": {
     "total_commits": 0,
-    "total_prs": 3,
+    "total_prs": 5,
     "total_issues": 1,
     "total_repositories": 10,
     "merged_prs": 0,
-    "open_prs": 0,
+    "open_prs": 1,
     "closed_issues": 1,
     "open_issues": 0,
     "forked_repos": 8,
@@ -41,6 +41,24 @@
         "activity_score": 2
       },
       {
+        "repository": "HKUDS/DeepCode",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
+        "repository": "jingyaogong/minimind",
+        "commits": 0,
+        "prs": 1,
+        "issues": 0,
+        "stars": 0,
+        "forks": 0,
+        "activity_score": 1
+      },
+      {
         "repository": "chroma-core/chroma",
         "commits": 0,
         "prs": 1,
@@ -65,7 +83,7 @@
       {
         "month": "2025-10",
         "commits": 0,
-        "prs": 2,
+        "prs": 4,
         "issues": 1
       },
       {
